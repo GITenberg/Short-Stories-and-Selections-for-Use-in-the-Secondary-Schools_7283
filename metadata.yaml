@@ -1,4 +1,5 @@
 _repo: Short-Stories-and-Selections-for-Use-in-the-Secondary-Schools_7283
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -6,7 +7,12 @@ contributor:
       alias: Baker, Emilie Kip
       gutenberg_agent_id: '2407'
       url: http://www.gutenberg.org/2009/agents/2407
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7283#Short-Stories-and-Selections-for-Use-in-the-Secondary-Schools
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
